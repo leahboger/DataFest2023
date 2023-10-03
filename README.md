@@ -16,7 +16,7 @@ For Data Fest 2023, the American Bar Association shared data from an online port
   
   
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
 Data Wrangling: <br/>
