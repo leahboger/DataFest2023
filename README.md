@@ -47,7 +47,7 @@ Wait for process to complete (may take some time):  <br/>
 <img src="https://i.imgur.com/IfiU5tM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Heat Map of Texas Countys:  <br/>
+Heat Map of Texas Counties:  <br/>
 <img src="https://i.imgur.com/C2Ruasf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
 (Darkest counties are counties that had the longest question to answer time)
 <br />
